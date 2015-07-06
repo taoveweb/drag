@@ -5,7 +5,7 @@ function drag(id){
   var obj=document.getElementById(id);
   var disX=0;
   var disY=0;
-  var str='这是一个测试中文的aaaasssssssssaaaa';
+  var str='这是一个测试中文的aaaasssasdasfasfasfasfasfssssssaaaa';
   obj.onmousedown=function(){
 
   }
